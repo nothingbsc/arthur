@@ -33,11 +33,6 @@ export default function RootLayout({
           media="(prefers-color-scheme: light)"
           content="#fff"
         />
-        <meta
-          name="theme-color"
-          media="(prefers-color-scheme: dark)"
-          content="#000"
-        />
 
         {/* google font css */}
         <link

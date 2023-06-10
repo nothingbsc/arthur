@@ -9,8 +9,8 @@ export default function Youtube() {
   }
 
   const opts: YouTubeProps['opts'] = {
-    height: '390',
-    width: '400',
+    height: '300',
+    width: '300',
     playerVars: {
       // https://developers.google.com/youtube/player_parameters
       autoplay: 1,
