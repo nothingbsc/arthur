@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Arthur a cheriesd cartoon from our childhoods arrives on BSC."
+  title: "Arthur a cherised cartoon from our childhoods arrives on BSC."
   content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
   image: "/images/banner.png"
   
