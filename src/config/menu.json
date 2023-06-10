@@ -1,0 +1,29 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Chart",
+      "url": "/about"
+    },
+    {
+      "name": "Buy Now",
+      "url": "/elements"
+    },
+    {
+      "name": "Links",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Contact",
+          "url": "/contact"
+        }
+      ]
+    }
+  ],
+  "footer": [
+  ]
+}
