@@ -2,7 +2,7 @@
   "name": "Arthur",
   "version": "1.2.1",
   "description": "Arthur Web",
-  "author": "zeon.studio",
+  "author": "Nothing Protocol",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
