@@ -35,7 +35,7 @@ features:
 
   - title: "Roadmap"
     image: "/images/arthur_diamond_final.png"
-    content: "What our future plans for the Arthur Crypto."
+    content: "What are our future plans for the Arthur Crypto."
     bulletpoints:
       - "Reach 500 Holder."
       - "Get listed on sites such as NTM, Moontok and later down the line coin tracking sites such as Coingecko and Coinmarketcap."
