@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Arthur a cherised cartoon from our childhoods arrives on BSC."
-  content: "A low tax token, with anti bot, max wallet and a safe dev come and join us on our journey"
+  content: "A low tax token, with anti bot, max wallet and a safe dev come and join us on our journey."
   image: "/images/banner.png"
   
 
