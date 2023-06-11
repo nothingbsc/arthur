@@ -2,22 +2,21 @@
 # Banner
 banner:
   title: "Arthur a cherised cartoon from our childhoods arrives on BSC."
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  content: "A low tax token, with anti bot, max wallet and a safe dev come and join us on our journey"
   image: "/images/banner.png"
   
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
+  - title: "Tokenomics"
     image: "/images/Arthur_cast.png"
     content: ""
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Next and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Low final Taxes of 5% buy and 5% sell."
+      - "4% for development and 1% for LP."
+      - "Anti Bot and Anti Sniper Measures protecting human buyers."
+      - "Liquidity will be locked, with extenstions at higher marketcaps."
+      - "Contract will be Renounced to ensure safety for investors."
     button:
       enable: false
       label: "Get Started Now"
