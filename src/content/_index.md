@@ -22,26 +22,26 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Next"
+  - title: "Lorem ipsum dolor sit amet"
     image: "/images/arthur_dw.png"
-    content: "Next is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium."
+      - "eritatis et quasi architecto beatae vitae dicta sunt explicabo"
+      - "aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem"
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/nextplate"
+      link: "#"
 
-  - title: "The Top Reasons to Choose Next for Your Next Project"
+  - title: "Lorem ipsum dolor sit amet"
     image: "/images/arthur_diamond_final.png"
-    content: "With Next, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Next a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "n ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit"
+      - "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "
+      - " sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim v"
+      - " sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim v"
     button:
       enable: false
       label: ""

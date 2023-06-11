@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Arthur",
-    "base_url": "https://nextplate.netlify.app",
+    "base_url": "",
     "base_path": "/",
     "trailing_slash": false,
     "logo_text": "Arthur"
@@ -25,7 +25,7 @@
   "navigation_button": {
     "enable": true,
     "label": "Join Us",
-    "link": "https://github.com/zeon-studio/nextplate"
+    "link": "#"
   },
 
   "disqus": {
