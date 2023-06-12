@@ -11,17 +11,6 @@
     {
       "name": "Buy Now",
       "url": "https://pancakeswap.finance/swap?outputCurrency=0x5bdF2Ce5cc73A4dd1b16586A01E18785568b26f8"
-    },
-    {
-      "name": "Links",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        }
-      ]
     }
   ],
   "footer": [
