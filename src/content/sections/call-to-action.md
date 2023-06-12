@@ -6,5 +6,5 @@ description: "Come and join the Arthur Community to find out more about our proj
 button:
   enable: true
   label: "Join Our Community"
-  link: "#"
+  link: "https://t.me/arthurbscportal"
 ---
